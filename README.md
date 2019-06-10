@@ -1,6 +1,6 @@
 ## Welcome to My Github Pages
 
-My Name is D Chen. I just earned a Ph.D. from the University of Delaware
+My name is D Chen. I just earned a Ph.D. from the University of Delaware
 
 ### Markdown
 
